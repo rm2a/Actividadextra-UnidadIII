@@ -1,1 +1,19 @@
 aqui va el resumen de la unidad 3
+CONTROL DE VERSIONES: 
+es un sistema que permite a los desarrolladores rastrear y gestionar los cambios realizados en el código a lo largo del tiempo. Esto permite a los desarrolladores colaborar y trabajar en proyectos de manera eficiente y organizada.
+Algunas de las características más comunes de los sistemas de control de versiones incluyen:
+Historial de cambios: Permite ver la historia completa de los cambios realizados en el código.
+Ramas: Permite a los desarrolladores trabajar en diferentes versiones del código al mismo tiempo.
+Merge: Permite combinar diferentes versiones del código en una sola versión.
+Control de conflictos: Permite resolver conflictos cuando diferentes desarrolladores realizan cambios simultáneamente en el mismo archivo.
+Algunos ejemplos de sistemas de control de versiones incluyen Git, SVN, y Mercurial.
+El control de versiones es esencial en la industria de la tecnología y es una habilidad valiosa para cualquier desarrollador de software.
+GITHUB:
+es una plataforma en línea que permite a los desarrolladores alojar, compartir y colaborar en proyectos de software. Es una herramienta popular para el control de versiones, basada en Git, que permite a los desarrolladores rastrear y gestionar los cambios realizados en el código a lo largo del tiempo.
+Algunas de las funcionalidades más importantes de GitHub incluyen:
+Repositorios: Un lugar para alojar y compartir código.
+Colaboración: Permite a los desarrolladores trabajar juntos en proyectos.
+Pull Requests: Permite a los desarrolladores hacer solicitudes para mejorar o integrar cambios en el código.
+Issues: Permite a los desarrolladores reportar y resolver problemas en el código.
+Wiki: Permite a los desarrolladores crear y compartir documentación sobre el proyecto.
+Además de ser una plataforma para el control de versiones, GitHub también es una comunidad en línea para desarrolladores, donde pueden compartir conocimientos, colaborar y descubrir nuevos proyectos.
